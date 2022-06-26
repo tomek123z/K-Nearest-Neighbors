@@ -14,7 +14,7 @@ Bài 7: Dùng thư viện bên ngoài.
 
 Bài 8: Nhận dạng chữ số viết tay.
 
-Bài 9: Dùng knn để giải bài regression.
+
 
 
 
